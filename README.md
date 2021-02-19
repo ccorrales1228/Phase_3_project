@@ -1,4 +1,4 @@
-# Predicting Churn within Telecom
+# Churn within Telecom
 
 ### The stakeholder, SyriaTel, is a telecommunications company whose goal is to better understand what factors are causing customer churn. Due to limits on data size, the model will only be robust enough to be used by SyriaTel to analyze their specific data provided.
 
@@ -46,4 +46,7 @@
 1) Customer Service: The company needs to potentially focus its efforts in reducing customer service calls.
 2) Sales: Focus on increase sales of international plans and consider the subscription based business model.
 
+## Contact:
+* Christian Corrales
+* corrales.christian1228@gmail.com
 
