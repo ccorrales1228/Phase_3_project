@@ -2,7 +2,7 @@
 
 
 
-### The stakeholder, SyriaTel, is a telecommunications company whose goal is to better understand what factors are causing customer churn. Due to limits on data size, the model will only be robust enough to be used by SyriaTel to analyze their specific data provided.
+### The stakeholder, SyriaTel, is a telecommunications company whose goal is to better understand what may be causing customer churn. The data set represents an ea of telecom where the business model was non subscription based, a pay-as-you-go business model. Due to limits on data size, the model will only be robust enough to be used by SyriaTel to analyze their specific data provided. Further this is a piliminary proprosal for our business intelligence team to take steps in better enhancing the customer expereince. As we recognize with an older dataset there may be limitation. However, we are positive we can look into the past to learn what to do and what works for this iteration of our customer churn classification model
 
 ![Image](logo.jpg)
 
