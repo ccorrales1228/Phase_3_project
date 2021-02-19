@@ -1,6 +1,10 @@
 # Churn within Telecom
 
+
+
 ### The stakeholder, SyriaTel, is a telecommunications company whose goal is to better understand what factors are causing customer churn. Due to limits on data size, the model will only be robust enough to be used by SyriaTel to analyze their specific data provided.
+
+![Image](logo.jpg)
 
 ## The Data
 ### The  data was provided via kaggle and focuses on SyriaTel's customer churn. Below you will find a refrence list regarding the data set.
@@ -25,7 +29,14 @@
 * total_intl_calls: numerical. Total number of international calls.
 * total_intl_charge: numerical. Total charge of international calls
 * number_customer_service_calls: numerical. Number of calls to customer service
+
+## Target
 * churn: (yes/no) Customer churn - target variable.
+* Almost 15% of customer have churned.
+
+
+![Image](Target_bar.png)
+
 
 ## The Problem Statement
 1) Classsification: Can we classify or predict customer who will churn?
@@ -41,6 +52,9 @@
   * Logistic Regression with GridSearch CV
   * Decision Tree with GridSearch CV
 3) Py Caret
+
+
+![Image](Model_comparison.png)
 
 ## Recommendations
 1) Customer Service: The company needs to potentially focus its efforts in reducing customer service calls.
